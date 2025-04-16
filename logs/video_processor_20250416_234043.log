@@ -1,0 +1,133 @@
+2025-04-16 23:40:43,414 - INFO - Starting Video Text Overlay & Dictation App
+2025-04-16 23:40:43,415 - INFO - Python version: 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0]
+2025-04-16 23:40:43,415 - INFO - Working directory: /home/pronit/workspace/autoshort
+2025-04-16 23:40:43,416 - INFO - Application started
+2025-04-16 23:40:43,417 - INFO - Selected LLM type: LM Studio
+2025-04-16 23:40:43,418 - INFO - Selected output resolution: 720p
+2025-04-16 23:40:43,461 - INFO - File uploaded: Tom Clancy's Rainbow Six  Siege 2025.04.09 - 18.24.47.02.DVR.mp4 (123071248 bytes)
+2025-04-16 23:40:43,462 - INFO - Created temporary directory: /tmp/tmph9yip9vp
+2025-04-16 23:40:43,472 - INFO - Upload progress: 8.5% (10.0MB)
+2025-04-16 23:40:43,482 - INFO - Upload progress: 17.0% (20.0MB)
+2025-04-16 23:40:43,492 - INFO - Upload progress: 25.6% (30.0MB)
+2025-04-16 23:40:43,501 - INFO - Upload progress: 34.1% (40.0MB)
+2025-04-16 23:40:43,503 - INFO - Starting Video Text Overlay & Dictation App
+2025-04-16 23:40:43,504 - INFO - Python version: 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0]
+2025-04-16 23:40:43,531 - INFO - Working directory: /home/pronit/workspace/autoshort
+2025-04-16 23:40:43,533 - INFO - Application started
+2025-04-16 23:40:43,533 - INFO - Selected LLM type: LM Studio
+2025-04-16 23:40:43,534 - INFO - Selected output resolution: 720p
+2025-04-16 23:40:43,559 - INFO - File uploaded: Tom Clancy's Rainbow Six  Siege 2025.04.09 - 18.24.47.02.DVR.mp4 (123071248 bytes)
+2025-04-16 23:40:43,560 - INFO - Created temporary directory: /tmp/tmpqebap0z0
+2025-04-16 23:40:43,571 - INFO - Upload progress: 8.5% (10.0MB)
+2025-04-16 23:40:43,579 - INFO - Upload progress: 17.0% (20.0MB)
+2025-04-16 23:40:43,587 - INFO - Upload progress: 25.6% (30.0MB)
+2025-04-16 23:40:43,595 - INFO - Upload progress: 34.1% (40.0MB)
+2025-04-16 23:40:43,603 - INFO - Upload progress: 42.6% (50.0MB)
+2025-04-16 23:40:43,611 - INFO - Upload progress: 51.1% (60.0MB)
+2025-04-16 23:40:43,619 - INFO - Upload progress: 59.6% (70.0MB)
+2025-04-16 23:40:43,626 - INFO - Upload progress: 68.2% (80.0MB)
+2025-04-16 23:40:43,634 - INFO - Upload progress: 76.7% (90.0MB)
+2025-04-16 23:40:43,642 - INFO - Upload progress: 85.2% (100.0MB)
+2025-04-16 23:40:43,649 - INFO - Upload progress: 93.7% (110.0MB)
+2025-04-16 23:40:43,656 - INFO - File saved to temporary location: /tmp/tmpqebap0z0/input_video.mp4
+2025-04-16 23:40:43,745 - INFO - Text generation requested
+2025-04-16 23:40:43,746 - INFO - Querying LM Studio LLM with prompt: dsaaa...
+2025-04-16 23:40:44,893 - INFO - LLM response received: 
+
+I'm going to be the editor of a magazine that fo...
+2025-04-16 23:40:52,910 - INFO - Starting Video Text Overlay & Dictation App
+2025-04-16 23:40:52,910 - INFO - Python version: 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0]
+2025-04-16 23:40:52,910 - INFO - Working directory: /home/pronit/workspace/autoshort
+2025-04-16 23:40:52,911 - INFO - Application started
+2025-04-16 23:40:52,911 - INFO - Selected LLM type: LM Studio
+2025-04-16 23:40:52,912 - INFO - Selected output resolution: 720p
+2025-04-16 23:40:52,953 - INFO - File uploaded: Tom Clancy's Rainbow Six  Siege 2025.04.09 - 18.24.47.02.DVR.mp4 (123071248 bytes)
+2025-04-16 23:40:52,969 - INFO - Created temporary directory: /tmp/tmpiyceo9ni
+2025-04-16 23:40:52,980 - INFO - Upload progress: 8.5% (10.0MB)
+2025-04-16 23:40:52,990 - INFO - Upload progress: 17.0% (20.0MB)
+2025-04-16 23:40:52,999 - INFO - Upload progress: 25.6% (30.0MB)
+2025-04-16 23:40:53,009 - INFO - Upload progress: 34.1% (40.0MB)
+2025-04-16 23:40:53,018 - INFO - Upload progress: 42.6% (50.0MB)
+2025-04-16 23:40:53,027 - INFO - Upload progress: 51.1% (60.0MB)
+2025-04-16 23:40:53,037 - INFO - Upload progress: 59.6% (70.0MB)
+2025-04-16 23:40:53,046 - INFO - Upload progress: 68.2% (80.0MB)
+2025-04-16 23:40:53,055 - INFO - Upload progress: 76.7% (90.0MB)
+2025-04-16 23:40:53,064 - INFO - Upload progress: 85.2% (100.0MB)
+2025-04-16 23:40:53,073 - INFO - Upload progress: 93.7% (110.0MB)
+2025-04-16 23:40:53,080 - INFO - File saved to temporary location: /tmp/tmpiyceo9ni/input_video.mp4
+2025-04-16 23:40:53,171 - INFO - Video processing requested
+2025-04-16 23:40:53,295 - INFO - TTS engine initialized successfully
+2025-04-16 23:40:53,296 - INFO - Generating audio for text: 
+
+I'm going to be the editor of a magazine that fo...
+2025-04-16 23:40:53,465 - INFO - Audio generated successfully: /tmp/tmps2dei4oe.wav
+2025-04-16 23:40:53,465 - INFO - Starting video processing: /tmp/tmpiyceo9ni/input_video.mp4
+2025-04-16 23:40:53,465 - INFO - Text overlay: 
+
+I'm going to be the editor of a magazine that fo...
+2025-04-16 23:40:53,769 - INFO - Input video details - Duration: 60.17s, Size: [1920, 1080]
+2025-04-16 23:40:54,085 - INFO - Video loaded with resolution: (1280, 720)
+2025-04-16 23:40:54,105 - ERROR - Error processing video: MoviePy Error: creation of None failed because of the following error:
+
+[Errno 2] No such file or directory: 'unset'.
+
+.This error can be due to the fact that ImageMagick is not installed on your computer, or (for Windows users) that you didn't specify the path to the ImageMagick binary in file conf.py, or that the path you specified is incorrect
+Traceback (most recent call last):
+  File "/home/pronit/workspace/autoshort/env/lib/python3.12/site-packages/moviepy/video/VideoClip.py", line 1137, in __init__
+    subprocess_call(cmd, logger=None)
+  File "/home/pronit/workspace/autoshort/env/lib/python3.12/site-packages/moviepy/tools.py", line 46, in subprocess_call
+    proc = sp.Popen(cmd, **popen_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.12/subprocess.py", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'unset'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pronit/workspace/autoshort/app.py", line 75, in process_video
+    text_clip = TextClip(
+                ^^^^^^^^^
+  File "/home/pronit/workspace/autoshort/env/lib/python3.12/site-packages/moviepy/video/VideoClip.py", line 1146, in __init__
+    raise IOError(error)
+OSError: MoviePy Error: creation of None failed because of the following error:
+
+[Errno 2] No such file or directory: 'unset'.
+
+.This error can be due to the fact that ImageMagick is not installed on your computer, or (for Windows users) that you didn't specify the path to the ImageMagick binary in file conf.py, or that the path you specified is incorrect
+2025-04-16 23:40:54,108 - ERROR - Error in video processing pipeline: MoviePy Error: creation of None failed because of the following error:
+
+[Errno 2] No such file or directory: 'unset'.
+
+.This error can be due to the fact that ImageMagick is not installed on your computer, or (for Windows users) that you didn't specify the path to the ImageMagick binary in file conf.py, or that the path you specified is incorrect
+Traceback (most recent call last):
+  File "/home/pronit/workspace/autoshort/env/lib/python3.12/site-packages/moviepy/video/VideoClip.py", line 1137, in __init__
+    subprocess_call(cmd, logger=None)
+  File "/home/pronit/workspace/autoshort/env/lib/python3.12/site-packages/moviepy/tools.py", line 46, in subprocess_call
+    proc = sp.Popen(cmd, **popen_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.12/subprocess.py", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'unset'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pronit/workspace/autoshort/app.py", line 266, in main
+    output_path = process_video(temp_video, text, audio_path)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pronit/workspace/autoshort/app.py", line 75, in process_video
+    text_clip = TextClip(
+                ^^^^^^^^^
+  File "/home/pronit/workspace/autoshort/env/lib/python3.12/site-packages/moviepy/video/VideoClip.py", line 1146, in __init__
+    raise IOError(error)
+OSError: MoviePy Error: creation of None failed because of the following error:
+
+[Errno 2] No such file or directory: 'unset'.
+
+.This error can be due to the fact that ImageMagick is not installed on your computer, or (for Windows users) that you didn't specify the path to the ImageMagick binary in file conf.py, or that the path you specified is incorrect
+2025-04-16 23:40:54,110 - INFO - Cleaned up temporary directory: /tmp/tmpiyceo9ni
